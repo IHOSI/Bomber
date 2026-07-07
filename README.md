@@ -91,7 +91,7 @@ SMS-Bomber | Created By : IHOSI
 ## 🚀 Installation Guide
 
 ### Quick Install (All Platforms)
-
+```
 ```bash
 git clone https://github.com/ihosi/Bomber.git
 cd Bomber
@@ -102,7 +102,7 @@ python bomber.py
 ---
 
 ### 💻 Windows
-
+```
 1. Download and install Python from [python.org](https://python.org)
 2. Open Command Prompt (CMD) as Administrator
 3. Run these commands:
@@ -117,7 +117,7 @@ run.bat
 ---
 
 ### 🐧 Linux / macOS
-
+```
 1. Open Terminal
 2. Run these commands:
 
@@ -132,7 +132,7 @@ chmod +x run.sh
 ---
 
 ### 📱 Android (Termux)
-
+```
 1. Install Termux from [F-Droid](https://f-droid.org/en/packages/com.termux/)
 2. Open Termux and run:
 
@@ -148,8 +148,8 @@ chmod +x termux-setup.sh
 
 ---
 
-## 🎮 How to Use
-
+##  How to Use
+```
 **Step 1:** Run the tool
 ```bash
 python bomber.py
@@ -201,24 +201,22 @@ Press CTRL+C to stop
 [2] 📤 Sent: 38 ❌ Failed: 1 ⚠ Error: 1 📊 Total: 40 ⏱ Delay: 0.5s
 [3] 📤 Sent: 40 ❌ Failed: 0 ⚠ Error: 0 📊 Total: 40 ⏱ Delay: 0.5s
 ---
-
+```
 ## 🛠️ Requirements
-
+```
 - Python 3.6 or higher
 - pip (Python package manager)
 - Internet connection
-
+```
 ### Dependencies
-
 ```
 requests>=2.31.0
 colorama>=0.4.6
+
+
 ```
-
----
-
 ## ⚠️ Legal Disclaimer
-
+```
 > **IMPORTANT NOTICE:**
 >
 > This tool is provided for **educational and authorized security testing purposes only**.
@@ -236,25 +234,25 @@ colorama>=0.4.6
 > **The author (ihosi) is not responsible for any misuse.**
 
 ---
-
+```
 ## 📝 License
+```
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
----
+```
+## 📊 Example Output
 
-## 👨‍💻 Author
-
+```
 **ihosi**
 - GitHub: [@ihosi](https://github.com/ihosi)
 - Project: [Bomber](https://github.com/ihosi/Bomber)
-
----
-
+```
 ## 🌟 Support
 
+```
 If you find this tool useful, please give it a ⭐ on GitHub!
-
 ---
-
+```
 **Made with ❤️ by ihosi**
+```
