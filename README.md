@@ -86,7 +86,7 @@ python bomber.py
 3. Run these commands:
 
 ```batch
-git clone https://github.com/ihosi/Bomber.git
+git clone https://github.com/ihosi/Bomber
 cd Bomber
 pip install -r requirements.txt
 run.bat
@@ -100,7 +100,7 @@ run.bat
 2. Run these commands:
 
 ```bash
-git clone https://github.com/ihosi/Bomber.git
+git clone https://github.com/ihosi/Bomber
 cd Bomber
 pip3 install -r requirements.txt
 chmod +x run.sh
@@ -117,14 +117,13 @@ chmod +x run.sh
 ```bash
 pkg update && pkg upgrade -y
 pkg install python python-pip git -y
-git clone https://github.com/ihosi/Bomber.git
+git clone https://github.com/ihosi/Bomber
 cd Bomber
 pip install -r requirements.txt
 chmod +x termux-setup.sh
 ./termux-setup.sh
 
----
-
+```
 ##  How to Use
 ```
 **Step 1:** Run the tool
