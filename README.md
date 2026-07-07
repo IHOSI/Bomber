@@ -74,7 +74,7 @@ SMS-Bomber | Created By : IHOSI
 git clone https://github.com/ihosi/Bomber.git
 cd Bomber
 pip install -r requirements.txt
-python bomber.py
+python Bomber.py
 ```
 
 ---
@@ -129,7 +129,7 @@ chmod +x termux-setup.sh
 ```
 **Step 1:** Run the tool
 ```bash
-python bomber.py
+python Bomber.py
 ```
 
 **Step 2:** Enter a phone number
