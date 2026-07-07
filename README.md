@@ -66,28 +66,6 @@ SMS-Bomber | Created By : IHOSI
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/banner.png" alt="BOMBER Banner" width="80%">
-  <br>
-  <em>Main Interface</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/attack.png" alt="BOMBER in Action" width="80%">
-  <br>
-  <em>Real-time Attack</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/results.png" alt="Results Summary" width="80%">
-  <br>
-  <em>Results Summary</em>
-</p>
-
----
-
 ## 🚀 Installation Guide
 
 ### Quick Install (All Platforms)
@@ -130,11 +108,11 @@ chmod +x run.sh
 ```
 
 ---
-
 ### 📱 Android (Termux)
-```
+
 1. Install Termux from [F-Droid](https://f-droid.org/en/packages/com.termux/)
 2. Open Termux and run:
+```
 
 ```bash
 pkg update && pkg upgrade -y
@@ -144,7 +122,6 @@ cd Bomber
 pip install -r requirements.txt
 chmod +x termux-setup.sh
 ./termux-setup.sh
-```
 
 ---
 
