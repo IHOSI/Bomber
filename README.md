@@ -115,9 +115,8 @@ chmod +x run.sh
 2. Open Termux and run:
 ```
 
-```bash
-pkg update && pkg upgrade -y
-pkg install python python-pip git -y
+
+pkg update pkg upgrade -y pkg install python python-pip git -y
 git clone https://github.com/ihosi/Bomber.git
 cd Bomber
 pip install -r requirements.txt
