@@ -12,13 +12,13 @@ pkg install python python-pip -y
 echo "Installing requirements..."
 pip install -r requirements.txt
 echo "Giving execute permission..."
-chmod +x bomber.py
+chmod +x Bomber.py
 echo ""
 echo "Setup complete!"
 echo ""
 echo "To run BOMBER:"
-echo "  python bomber.py"
+echo "  python Bomber.py"
 echo ""
 echo "Press any key to start..."
 read -n 1
-python bomber.py
+python Bomber.py
