@@ -13,5 +13,5 @@ echo Installing requirements...
 pip install -r requirements.txt
 echo.
 echo Starting BOMBER...
-python bomber.py
+python Bomber.py
 pause
