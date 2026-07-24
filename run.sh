@@ -10,4 +10,4 @@ echo "Installing requirements..."
 pip3 install -r requirements.txt
 echo ""
 echo "Starting BOMBER..."
-python3 bomber.py
+python3 Bomber.py
